@@ -1,0 +1,22 @@
+// style.scss
+
+// Style
+
+// General
+
+@import "./fonts.scss";
+@import "./reset.scss";
+
+// Libraries
+@import './libraries/fullpage.scss';
+@import './libraries/swiper-bundle.min.css';
+
+// Plugins
+
+
+// Blocks
+
+@import './blocks/mixins.scss';
+@import './blocks/main.scss';
+
+
